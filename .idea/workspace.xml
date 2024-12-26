@@ -5,35 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4aba228-e2a1-4470-8c7b-bad8985528bb" name="Changes" comment="new commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7laba/7.1/7.1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7laba/7.1/src/Achievement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7laba/7.1/src/AchievementController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7laba/7.1/src/AchievementView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7laba/7.1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7laba/7.2/7.2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7laba/7.2/src/Expense.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7laba/7.2/src/ExpensePresenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7laba/7.2/src/ExpenseView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7laba/7.2/src/ExpenseViewImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7laba/7.3/7.3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7laba/7.3/src/PlaylistView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7laba/7.3/src/PlaylistViewModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7laba/7.3/src/Track.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7laba/7laba.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/achievements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laba10/laba10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laba10/src/AlarmClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laba10/src/AlarmPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laba10/src/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laba10/src/ClockPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laba8/laba8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laba8/src/CalculatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laba8/src/CalculatorModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laba8/src/CalculatorView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laba9/laba9.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba8/src/CalculatorModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/laba8/src/CalculatorModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba8/src/CalculatorView.java" beforeDir="false" afterPath="$PROJECT_DIR$/laba8/src/CalculatorView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734591844720</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new commit">
+      <option name="closed" value="true" />
+      <created>1735197055583</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735197055583</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

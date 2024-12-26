@@ -20,47 +20,37 @@ class AlarmClock {
         this.minutes = minutes;
         this.seconds = seconds;
 
-        // Суммарное время для срабатывания будильника в миллисекундах
         long alarmTime = (minutes * 60 + seconds) * 1000;
 
-        // Отменяем предыдущие задачи таймера, если они есть
         timer.cancel();
         timer = new Timer();
 
-        // Устанавливаем новую задачу для будильника
         timer.schedule(new TimerTask() {
             @Override
             public void run() {
-                triggerAlarm();  // Срабатывание будильника
+                triggerAlarm();
             }
         }, alarmTime);
     }
 
     private void triggerAlarm() {
-        // Логика срабатывания будильника
-        System.out.println("Будильник сработал!");  // Можете заменить на более подходящее действие
-
-        // Звуковое уведомление о срабатывании будильника
+        System.out.println("Будильник установлен");
         Toolkit.getDefaultToolkit().beep();
-
-        // Окно уведомления
-        JOptionPane.showMessageDialog(null, "Время вышло! Будильник сработал!");
+        JOptionPane.showMessageDialog(null, "Пора просыпаться!");
     }
 
-    // Метод для начала обновления текущего времени
     public void startClockUpdate(JLabel timeLabel) {
         updateTimeTimer.scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
-                updateTime(timeLabel);  // Обновляем время каждую секунду
+                updateTime(timeLabel);
             }
-        }, 0, 1000); // 1000 миллисекунд = 1 секунда
+        }, 0, 1000);
     }
 
-    // Обновляем метку с временем
     private void updateTime(JLabel timeLabel) {
-        SimpleDateFormat sdf = new SimpleDateFormat("HH:mm:ss"); // Формат времени
-        String currentTime = sdf.format(new Date()); // Получаем текущее время
-        timeLabel.setText(currentTime); // Обновляем текст метки
+        SimpleDateFormat sdf = new SimpleDateFormat("HH:mm:ss");
+        String currentTime = sdf.format(new Date());
+        timeLabel.setText(currentTime);
     }
 }

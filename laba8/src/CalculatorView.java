@@ -11,7 +11,7 @@ public class CalculatorView extends JFrame {
     private JTextArea resultArea;
 
     public CalculatorView() {
-        setTitle("Z Calculator");
+        setTitle("ZV");
         setSize(400, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
