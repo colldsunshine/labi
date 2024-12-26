@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4aba228-e2a1-4470-8c7b-bad8985528bb" name="Changes" comment="new commit" />
+    <list default="true" id="a4aba228-e2a1-4470-8c7b-bad8985528bb" name="Changes" comment="new commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7laba/7.1/7.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7laba/7.1/src/Achievement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7laba/7.1/src/AchievementController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7laba/7.1/src/AchievementView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7laba/7.1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7laba/7.2/7.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7laba/7.2/src/Expense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7laba/7.2/src/ExpensePresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7laba/7.2/src/ExpenseView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7laba/7.2/src/ExpenseViewImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7laba/7.3/7.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7laba/7.3/src/PlaylistView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7laba/7.3/src/PlaylistViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7laba/7.3/src/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7laba/7laba.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/achievements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba10/laba10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba10/src/AlarmClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba10/src/AlarmPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba10/src/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba10/src/ClockPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba8/laba8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba8/src/CalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba8/src/CalculatorModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba8/src/CalculatorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba9/laba9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +50,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "colldsunshine"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;colldsunshine&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/colldsunshine/labi.git",
-    "accountId": "656e2f71-59ad-4cf4-af25-fbaabf7d3cc9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/colldsunshine/labi.git&quot;,
+    &quot;accountId&quot;: &quot;656e2f71-59ad-4cf4-af25-fbaabf7d3cc9&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -41,16 +71,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/ez/IdeaProjects/labi/laba6/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CalculatorApp.executor": "Run",
+    "Application.DrawingFrame.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainFrame.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ez/IdeaProjects/labi",
+    "onboarding.tips.debug.path": "/Users/ez/IdeaProjects/labi/laba10/src/Main.java"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/laba7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/7laba" />
+      <recent name="$PROJECT_DIR$/7.1/src" />
+      <recent name="$PROJECT_DIR$/7.1" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/laba7" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734591395719</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new commit">
+      <option name="closed" value="true" />
+      <created>1734591844720</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734591844720</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +166,16 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/7laba/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/laba8/src/CalculatorApp.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
